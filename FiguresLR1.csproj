@@ -46,7 +46,6 @@
     <Compile Include="BaseFigure.cs" />
     <Compile Include="Circle.cs" />
     <Compile Include="Ellipse.cs" />
-    <Compile Include="FiguresList.cs" />
     <Compile Include="Parallelogram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
