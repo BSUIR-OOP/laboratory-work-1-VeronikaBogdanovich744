@@ -1,7 +1,0 @@
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\obj\Debug\FiguresLR1.csprojAssemblyReference.cache
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\obj\Debug\FiguresLR1.csproj.CoreCompileInputs.cache
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\bin\Debug\FiguresLR1.exe.config
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\bin\Debug\FiguresLR1.exe
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\bin\Debug\FiguresLR1.pdb
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\obj\Debug\FiguresLR1.exe
-C:\Users\Вероника\Desktop\laboratory-work-1-VeronikaBogdanovich744\obj\Debug\FiguresLR1.pdb
