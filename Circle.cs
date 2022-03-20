@@ -8,13 +8,10 @@ namespace FiguresLR1
 {
     class Circle : Ellipse
     {
-        private double radius;
+        public int radius { get { return mainAxis; } set { mainAxis = value; additionalAxis = value; } }
 
-        public Circle(int x1, int y1, double r):base(x1,y1,r,r)
+        public Circle(int x1, int y1, int r):base(x1,y1,r,r)
         {
-            radius = r;
-            this.x = x1;
-            this.y = y1;
         }
 
         public override string FigureName() { return "круг"; }

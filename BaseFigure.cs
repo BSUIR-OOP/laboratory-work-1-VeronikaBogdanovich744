@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FiguresLR1
 {
-    internal abstract class BaseFigure //current build
+    internal abstract class BaseFigure
     {
         public abstract string FigureName();
         public abstract void ShowFigure();

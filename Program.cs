@@ -16,14 +16,18 @@ namespace FiguresLR1
             new Circle(1, 1, 30),
             new Triangle(10, 10, 20, 20, 10, 20),
             new Quadrangle(10, 10, 20, 20, 20, 30, 10, 40),
+            new Rhombus(100, 100, 200, 200, 200, 300),
             new Parallelogram(10, 10, 20, 40, 40, 40, 30, 10),
             new Rectangle(10, 10, 30, 30)
             };
-        
-            foreach(var f in figures)
-            {
-                f.ShowFigure();
+
+
+            foreach (var f in figures)
+            {  
+                f.ShowFigure(); 
             }
+
+
         
             Console.ReadKey();
         }

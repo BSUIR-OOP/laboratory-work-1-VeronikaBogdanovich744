@@ -8,10 +8,14 @@ namespace FiguresLR1
 {
     class Ellipse: BaseFigure
     {
-        private double mainAxis, additionalAxis;
+        private protected int mainAxis, additionalAxis;
         private protected int x, y;
+        public virtual int mainAx { get { return mainAxis; } set { mainAxis = value; } }
+        public virtual int additionalAx { get { return additionalAxis; } set { additionalAxis = value; } }
+        public int p_x { get { return x; } set { x = value; } }
+        public int p_y { get { return y; } set { y = value; } }
 
-        public Ellipse(int x1,int y1, double axis1,double axis2)
+        public Ellipse(int x1,int y1, int axis1,int axis2)
         {
             mainAxis = axis1;
             additionalAxis = axis2;

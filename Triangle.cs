@@ -12,6 +12,13 @@ namespace FiguresLR1
         private int x2, y2;
         private int x3, y3;
 
+        public int p_x1 { get { return x1; } set { x1 = value; } }
+        public int p_x2 { get { return x2; } set { x2 = value; } }
+        public int p_x3 { get { return x3; } set { x3 = value; } }
+        public int p_y1 { get { return y1; } set { y1 = value; } }
+        public int p_y2 { get { return y2; } set { y2 = value; } }
+        public int p_y3 { get { return y3; } set { y3 = value; } }
+
         public Triangle(int x1, int y1, int x2, int y2, int x3, int y3)
         {
             this.x1 = x1;
